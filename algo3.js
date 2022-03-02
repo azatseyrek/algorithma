@@ -1,4 +1,4 @@
-const str = "0000000010000"; //7
+const str = "001001010010"; //7
 
 const myStr = str.toString().split("");
 console.log(myStr);
