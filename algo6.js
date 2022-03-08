@@ -9,5 +9,4 @@ for (i = 0; i <= n; i++) {
   output.push(nums[i + n]);
 }
 
-
-console.log(output);``
+console.log(output);
